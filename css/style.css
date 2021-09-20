@@ -1,0 +1,46 @@
+*, html, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.hero-bg {
+    background-image: url('../img/hero-bg.jpg');
+    background-position: 50% 0%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container-book {
+    background-color: #E5E5E5;
+}
+
+span {
+    color: #104e92;
+}
+
+#bgdc {
+    background-color: #e71a23;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+/*.bgdci {
+    background-color: #e71a23;
+    border-radius: 50%; couldnt get the oval to change to circle after using div and text center
+
+}
+
+.hero-bg2 {
+    background-image: url('../img/billionphotos1079319min.png');
+    background-position: 50% 0%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #E5E5E5;
+    border: 1px solid red;
+}
+*/
+
+.about-us {
+    background-color: #104e92;
+}
